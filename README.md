@@ -3,5 +3,5 @@
 
 ## Dependencies
 
-> ⭐️ PyStyle
+> ⭐️ PyStyle  
 > 🌙 PyWhatKit
