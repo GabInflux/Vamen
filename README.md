@@ -28,6 +28,6 @@
 ![AccesPath](https://user-images.githubusercontent.com/101132662/157977312-f19147fb-315e-4d03-9fe7-d0db6bc642be.PNG)
 
 It should render something like this: C:\Users\name\image.png
-Copy it and paste it in the cmd of the code.
-3. Write the name of the file.
+Copy it and paste it in the cmd of the code.  
+3. Write the name of the file.  
 4. Enjoy your ascii image !
