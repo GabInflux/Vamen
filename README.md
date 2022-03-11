@@ -23,7 +23,7 @@
 
 ## Tutorial
 
-1. Start the program with python 3.
-2. Get the file path: It should render something like this: C:\Users\name\image.png. Copy it and paste it in the cmd of the code.
-3. Write the name of the file.
-4. Enjoy your ascii image !
+*1*. Start the program with python 3.
+*2*. Get the file path: It should render something like this: C:\Users\name\image.png. Copy it and paste it in the cmd of the code.
+*3*. Write the name of the file.
+*4*. Enjoy your ascii image !
